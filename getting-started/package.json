@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "getting-started",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,11 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1"
-  },
   "devDependencies": {
-    "vue": "^2.6.11"
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
   }
 }
